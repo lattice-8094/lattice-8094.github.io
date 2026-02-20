@@ -1,2 +1,4 @@
 # lattice-8094.github.io
-Set up for GitHub Pages of Lattice
+
+Corpus description for [TXM-Lattice](https://tools.lattice.cnrs.fr/txm/) : https://lattice-8094.github.io/txm-lattice
+
